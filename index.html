@@ -10,7 +10,10 @@
     <style>
       #chartdiv {
         width: 100%;
-        height: 500px;
+        height: 101vh;
+      }
+      g[role="button"] {
+        display: none;
       }
     </style>
 
@@ -19,8 +22,7 @@
     <script src="https://www.amcharts.com/lib/4/charts.js"></script>
     <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
-    <script src="./data.js"></script>
-    <script src="./total.js"></script>
+    <script src="./data2.js"></script>
     <!-- Chart code -->
     <script>
       am4core.ready(function () {
@@ -43,7 +45,7 @@
         label.horizontalCenter = "right";
         label.verticalCenter = "middle";
         label.dx = -15;
-        label.fontSize = 50;
+        label.fontSize = 20;
 
         var playButton = chart.plotContainer.createChild(am4core.PlayButton);
         playButton.x = am4core.percent(97);
@@ -86,7 +88,7 @@
         var labelBullet = series.bullets.push(new am4charts.LabelBullet());
         labelBullet.label.horizontalCenter = "right";
         labelBullet.label.text =
-          "{values.valueX.workingValue.formatNumber('#.0as')}";
+          "{values.valueX.workingValue.formatNumber('#.0s')}";
         labelBullet.label.textAlign = "end";
         labelBullet.label.dx = -10;
 
@@ -97,30 +99,25 @@
           return chart.colors.getIndex(target.dataItem.index);
         });
 
-        var data = {};
-        for (var key of Object.keys(fullData)) {
-          var index = 0
-          fullData[key].map(item =>
+        // var Dubyear = '"2020-03-13T18:30:00.000Z"';
+        // var year = JSON.parse(Dubyear);
 
-          )
-          // const valueData = fullData[key].map(
-          //   (item) => {
-          //     date = item.date;
-          //     return {
-          //       network: key,
-          //       MAU: item.totalactive,
-          //     };
-          //   }
-          //   // data[item.date] = [{ network: key, MAU: item.totalactive }];
-          // );
-        }
-        // console.log(data);
-        // var day = moment("2020-3-14", "DD-MM-YYYY").format("ll");
-        // var initialDay = day;
-        // var endDay = moment("2020-4-19");
-        // label.text = day.toString();
+        // var year = new Date(2020, 02, 13, 24, 0, 00).toJSON();
+        var initialYear = moment("20200314").toJSON();
+        var year = moment("20200314").toJSON();
 
-        var year = 2003;
+        console.log(year);
+        // console.log(year.toJSON());
+
+        // var cc = Object.keys(allData)[0];
+        // console.log(cc);
+
+        // console.log(typeof year);
+        // console.log(typeof cc);
+
+        // if (cc === year) console.log("blah");
+        // else console.log("dasdasd");
+
         label.text = year.toString();
 
         var interval;
@@ -137,15 +134,18 @@
             clearInterval(interval);
           }
         }
-
+        // console.log(moment(year).add(1, "days").toJSON());
         function nextYear() {
-          year++;
+          var newday = moment(year).add(1, "days").toJSON();
+          year = newday;
+          console.log(moment(year).add(1, "days").toJSON());
           //   moment(day).add(1, "days");
-          if (year > 2018) {
-            year = 2003;
+          if (year > "2020-03-24T18:30:00.000Z") {
+            year = initialYear;
           }
 
           var newData = allData[year];
+          console.log(newData);
           var itemsWithNonZero = 0;
           for (var i = 0; i < chart.data.length; i++) {
             chart.data[i].MAU = newData[i].MAU;
@@ -154,7 +154,7 @@
             }
           }
 
-          if (year == 2003) {
+          if (year == initialYear) {
             series.interpolationDuration = stepDuration / 4;
             valueAxis.rangeChangeDuration = stepDuration / 4;
           } else {
@@ -163,7 +163,7 @@
           }
 
           chart.invalidateRawData();
-          label.text = year.toString();
+          label.text = moment(year).format("MMM Do YYYY");
 
           categoryAxis.zoom({
             start: 0,
@@ -173,13 +173,14 @@
 
         categoryAxis.sortBySeries = series;
 
-        chart.data = JSON.parse(JSON.stringify(allData[year]));
+        chart.data = allData[year];
+        console.log(chart.data);
         categoryAxis.zoom({ start: 0, end: 1 / chart.data.length });
 
         series.events.on("inited", function () {
           setTimeout(function () {
             playButton.isActive = true; // this starts interval
-          }, 2000);
+          }, 00);
         });
       }); // end am4core.ready()
     </script>

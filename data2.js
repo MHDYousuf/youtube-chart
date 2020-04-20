@@ -6621,7 +6621,7 @@ var allData = {
   //       MAU: "0",
   //     },
   //   ],
-  "13 March": [
+  "2020-03-13T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -6758,10 +6758,10 @@ var allData = {
       network: "Tripura",
       MAU: "0",
     },
-    {
-      network: "total",
-      MAU: "81",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "81",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "8",
@@ -6775,7 +6775,7 @@ var allData = {
       MAU: "0",
     },
   ],
-  "14 March": [
+  "2020-03-14T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -6912,10 +6912,10 @@ var allData = {
       network: "Tripura",
       MAU: "0",
     },
-    {
-      network: "total",
-      MAU: "81",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "81",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "9",
@@ -6929,7 +6929,7 @@ var allData = {
       MAU: "0",
     },
   ],
-  "15 March": [
+  "2020-03-15T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -7066,10 +7066,10 @@ var allData = {
       network: "Tripura",
       MAU: "0",
     },
-    {
-      network: "total",
-      MAU: "0",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "0",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "9",
@@ -7083,7 +7083,7 @@ var allData = {
       MAU: "0",
     },
   ],
-  "16 March": [
+  "2020-03-16T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -7220,10 +7220,10 @@ var allData = {
       network: "Tripura",
       MAU: "0",
     },
-    {
-      network: "total",
-      MAU: "0",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "0",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "10",
@@ -7237,7 +7237,7 @@ var allData = {
       MAU: "1",
     },
   ],
-  "17 March": [
+  "2020-03-17T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -7374,10 +7374,10 @@ var allData = {
       network: "Tripura",
       MAU: "0",
     },
-    {
-      network: "total",
-      MAU: "0",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "0",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "12",
@@ -7391,7 +7391,7 @@ var allData = {
       MAU: "1",
     },
   ],
-  "18 March": [
+  "2020-03-18T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -7528,10 +7528,10 @@ var allData = {
       network: "Tripura",
       MAU: "15",
     },
-    {
-      network: "total",
-      MAU: "0",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "0",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "11",
@@ -7545,7 +7545,7 @@ var allData = {
       MAU: "1",
     },
   ],
-  "19 March": [
+  "2020-03-19T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -7682,10 +7682,10 @@ var allData = {
       network: "Tripura",
       MAU: "0",
     },
-    {
-      network: "total",
-      MAU: "0",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "0",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "15",
@@ -7699,7 +7699,7 @@ var allData = {
       MAU: "2",
     },
   ],
-  "20 March": [
+  "2020-03-20T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "5",
@@ -7836,10 +7836,10 @@ var allData = {
       network: "Tripura",
       MAU: "0",
     },
-    {
-      network: "total",
-      MAU: "0",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "0",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "19",
@@ -7853,7 +7853,7 @@ var allData = {
       MAU: "4",
     },
   ],
-  "21 March": [
+  "2020-03-21T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -7990,10 +7990,10 @@ var allData = {
       network: "Tripura",
       MAU: "0",
     },
-    {
-      network: "total",
-      MAU: "0",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "0",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "21",
@@ -8007,7 +8007,7 @@ var allData = {
       MAU: "7",
     },
   ],
-  "22 March": [
+  "2020-03-22T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -8144,10 +8144,10 @@ var allData = {
       network: "Tripura",
       MAU: "0",
     },
-    {
-      network: "total",
-      MAU: "0",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "0",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "23",
@@ -8161,7 +8161,7 @@ var allData = {
       MAU: "6",
     },
   ],
-  "23 March": [
+  "2020-03-23T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -8298,10 +8298,10 @@ var allData = {
       network: "Tripura",
       MAU: "0",
     },
-    {
-      network: "total",
-      MAU: "0",
-    },
+    // {
+    //   network: "total",
+    //   MAU: "0",
+    // },
     {
       network: "Uttar Pradesh",
       MAU: "24",
@@ -8315,4316 +8315,4316 @@ var allData = {
       MAU: "8",
     },
   ],
-  "24 March": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "9",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "3",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "25 March": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "10",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "6",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "26 March": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "12",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "8",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "27 March": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "18",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "10",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "28 March": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "20",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "14",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "29 March": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: 22,
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: 14,
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "30 March": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "43",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "31 March": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "109",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "01 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "02 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "03 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "04 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "05 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "06 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "07 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "08 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "09 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "10 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "11 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "12 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "13 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "14 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "15 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "16 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "17 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "18 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "19 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
-  "20 April": [
-    {
-      network: "Andaman and Nicobar Islands",
-      MAU: "0",
-    },
-    {
-      network: "Andhra Pradesh",
-      MAU: "1",
-    },
-    {
-      network: "Arunachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Assam",
-      MAU: "0",
-    },
-    {
-      network: "Bihar",
-      MAU: "0",
-    },
-    {
-      network: "Chandigarh",
-      MAU: "0",
-    },
-    {
-      network: "Chhattisgarh",
-      MAU: "0",
-    },
-    {
-      network: "Daman and Diu",
-      MAU: "0",
-    },
-    {
-      network: "Delhi",
-      MAU: "0",
-    },
-    {
-      network: "Dadra and Nagar Haveli",
-      MAU: "0",
-    },
-    {
-      network: "Goa",
-      MAU: "0",
-    },
-    {
-      network: "Gujarat",
-      MAU: "0",
-    },
-    {
-      network: "Himachal Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Hariyana",
-      MAU: "0",
-    },
-    {
-      network: "Jharkhand",
-      MAU: "0",
-    },
-    {
-      network: "Jammu and Kashmir",
-      MAU: "0",
-    },
-    {
-      network: "Karnataka",
-      MAU: "0",
-    },
-    {
-      network: "Kerala",
-      MAU: "0",
-    },
-    {
-      network: "Ladakh",
-      MAU: "0",
-    },
-    {
-      network: "Lakshadweep",
-      MAU: "0",
-    },
-    {
-      network: "Maharashtra",
-      MAU: "0",
-    },
-    {
-      network: "Meghalaya",
-      MAU: "0",
-    },
-    {
-      network: "Manipur",
-      MAU: "0",
-    },
-    {
-      network: "Madhya Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Mizoram",
-      MAU: "0",
-    },
-    {
-      network: "Nagaland",
-      MAU: "0",
-    },
-    {
-      network: "Orissa",
-      MAU: "0",
-    },
-    {
-      network: "Punjab",
-      MAU: "0",
-    },
-    {
-      network: "Pondicherry",
-      MAU: "0",
-    },
-    {
-      network: "Rajasthan",
-      MAU: "0",
-    },
-    {
-      network: "Sikkim",
-      MAU: "0",
-    },
-    {
-      network: "Telangana",
-      MAU: "0",
-    },
-    {
-      network: "Tamil Nadu",
-      MAU: "0",
-    },
-    {
-      network: "Tripura",
-      MAU: "0",
-    },
-    {
-      network: "total",
-      MAU: "0",
-    },
-    {
-      network: "Uttar Pradesh",
-      MAU: "0",
-    },
-    {
-      network: "Uttarakhand",
-      MAU: "0",
-    },
-    {
-      network: "West Bengal",
-      MAU: "0",
-    },
-  ],
+  // "2020-03-24T18:30:00.000Z": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "9",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "3",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   // {
+  //   //   network: "total",
+  //   //   MAU: "0",
+  //   // },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "2020-03-25T18:30:00.000Z": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "10",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "6",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   // {
+  //   //   network: "total",
+  //   //   MAU: "0",
+  //   // },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "2020-03-26T18:30:00.000Z": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "12",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "8",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   // {
+  //   //   network: "total",
+  //   //   MAU: "0",
+  //   // },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "2020-03-27T18:30:00.000Z": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "18",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "10",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   // {
+  //   //   network: "total",
+  //   //   MAU: "0",
+  //   // },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "2020-03-28T18:30:00.000Z": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "20",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "14",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   // {
+  //   //   network: "total",
+  //   //   MAU: "0",
+  //   // },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "2020-03-29T18:30:00.000Z": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: 22,
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: 14,
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   // {
+  //   //   network: "total",
+  //   //   MAU: "0",
+  //   // },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "2020-03-30T18:30:00.000Z": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "43",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   // {
+  //   //   network: "total",
+  //   //   MAU: "0",
+  //   // },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "2020-03-31T18:30:00.000Z": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "109",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   // {
+  //   //   network: "total",
+  //   //   MAU: "0",
+  //   // },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "2020-04-1T18:30:00.000Z": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   // {
+  //   //   network: "total",
+  //   //   MAU: "0",
+  //   // },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "02 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "03 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "04 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "05 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "06 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "07 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "08 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "09 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "10 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "11 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "12 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "13 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "14 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "15 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "16 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "17 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "18 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "19 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
+  // "20 April": [
+  //   {
+  //     network: "Andaman and Nicobar Islands",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Andhra Pradesh",
+  //     MAU: "1",
+  //   },
+  //   {
+  //     network: "Arunachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Assam",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Bihar",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chandigarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Chhattisgarh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Daman and Diu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Delhi",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Dadra and Nagar Haveli",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Goa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Gujarat",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Himachal Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Hariyana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jharkhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Jammu and Kashmir",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Karnataka",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Kerala",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Ladakh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Lakshadweep",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Maharashtra",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Meghalaya",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Manipur",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Madhya Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Mizoram",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Nagaland",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Orissa",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Punjab",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Pondicherry",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Rajasthan",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Sikkim",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Telangana",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tamil Nadu",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Tripura",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "total",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttar Pradesh",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "Uttarakhand",
+  //     MAU: "0",
+  //   },
+  //   {
+  //     network: "West Bengal",
+  //     MAU: "0",
+  //   },
+  // ],
 };
