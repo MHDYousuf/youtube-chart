@@ -9701,7 +9701,7 @@ var allData = {
       MAU: "47",
     },
   ],
-  "02 April": [
+  "2020-04-2T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "10",
@@ -9855,7 +9855,7 @@ var allData = {
       MAU: "47",
     },
   ],
-  "03 April": [
+  "2020-04-03T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -10009,7 +10009,7 @@ var allData = {
       MAU: "0",
     },
   ],
-  "04 April": [
+  "2020-04-04T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "10",
@@ -10163,7 +10163,7 @@ var allData = {
       MAU: "67",
     },
   ],
-  "05 April": [
+  "2020-04-05T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "10",
@@ -10317,7 +10317,7 @@ var allData = {
       MAU: "67",
     },
   ],
-  "06 April": [
+  "2020-04-06T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "10",
@@ -10471,7 +10471,7 @@ var allData = {
       MAU: "75",
     },
   ],
-  "07 April": [
+  "2020-04-07T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "11",
@@ -10625,7 +10625,7 @@ var allData = {
       MAU: "81",
     },
   ],
-  "08 April": [
+  "2020-04-08T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "1",
@@ -10779,7 +10779,7 @@ var allData = {
       MAU: "82",
     },
   ],
-  "09 April": [
+  "2020-04-09T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "1",
@@ -10933,7 +10933,7 @@ var allData = {
       MAU: "95",
     },
   ],
-  "10 April": [
+  "2020-04-10T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "1",
@@ -11087,7 +11087,7 @@ var allData = {
       MAU: "105",
     },
   ],
-  "11 April": [
+  "2020-04-11T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "1",
@@ -11241,7 +11241,7 @@ var allData = {
       MAU: "108",
     },
   ],
-  "12 April": [
+  "2020-04-12T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "1",
@@ -11395,7 +11395,7 @@ var allData = {
       MAU: "116",
     },
   ],
-  "13 April": [
+  "2020-04-13T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "1",
@@ -11549,7 +11549,7 @@ var allData = {
       MAU: "147",
     },
   ],
-  "14 April": [
+  "2020-04-14T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "1",
@@ -11703,7 +11703,7 @@ var allData = {
       MAU: "169",
     },
   ],
-  "15 April": [
+  "2020-04-15T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "0",
@@ -11857,7 +11857,7 @@ var allData = {
       MAU: "129",
     },
   ],
-  "16 April": [
+  "2020-04-16T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "1",
@@ -12011,7 +12011,7 @@ var allData = {
       MAU: "194",
     },
   ],
-  "17 April": [
+  "2020-04-17T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "3",
@@ -12165,7 +12165,7 @@ var allData = {
       MAU: "220",
     },
   ],
-  "18 April": [
+  "2020-04-18T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "4",
