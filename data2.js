@@ -7518,7 +7518,7 @@ var allData = {
     },
     {
       network: "Telangana",
-      MAU: "0",
+      MAU: "15",
     },
     {
       network: "Tamil Nadu",
@@ -7526,7 +7526,7 @@ var allData = {
     },
     {
       network: "Tripura",
-      MAU: "15",
+      MAU: "0",
     },
     // {
     //   network: "total",
