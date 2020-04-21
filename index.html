@@ -33,11 +33,20 @@
         var chart = am4core.create("chartdiv", am4charts.XYChart);
         chart.padding(40, 40, 40, 40);
 
-        chart.numberFormatter.bigNumberPrefixes = [
-          { number: 1e3, suffix: "K" },
-          { number: 1e6, suffix: "M" },
-          { number: 1e9, suffix: "B" },
-        ];
+        // chart.numberFormatter.bigNumberPrefixes = [
+        //   { number: 1e3, suffix: "K" },
+        //   { number: 1e6, suffix: "M" },
+        //   { number: 1e9, suffix: "B" },
+        // ];
+        chart.numberFormatter.numberFormat = "#,###.|#.|.";
+
+        var title = chart.titles.create();
+        title.html = "<strong>COVID 19 Active Cases in India</strong>";
+        title.fontSize = 25;
+        title.marginBottom = 30;
+        // var labele = chart.chartContainer.createChild(am4core.Label);
+        // labele.text = "Active Cases";
+        // labele.align = "center";
 
         var label = chart.plotContainer.createChild(am4core.Label);
         label.x = am4core.percent(97);
@@ -45,6 +54,7 @@
         label.horizontalCenter = "right";
         label.verticalCenter = "middle";
         label.dx = -15;
+        label.dy = -30;
         label.fontSize = 20;
 
         var playButton = chart.plotContainer.createChild(am4core.PlayButton);
@@ -73,12 +83,14 @@
         valueAxis.min = 0;
         valueAxis.rangeChangeEasing = am4core.ease.linear;
         valueAxis.rangeChangeDuration = stepDuration;
-        valueAxis.extraMax = 0.1;
-
+        valueAxis.extraMax = 0.25;
+        valueAxis.renderer.grid.template.disabled = true;
+        valueAxis.renderer.minGridDistance = 10;
+        valueAxis.renderer.disabled = true;
         var series = chart.series.push(new am4charts.ColumnSeries());
         series.dataFields.categoryY = "network";
         series.dataFields.valueX = "MAU";
-        series.tooltipText = "{valueX.value}";
+        // series.tooltipText = "{valueX.value}";
         series.columns.template.strokeOpacity = 0;
         series.columns.template.column.cornerRadiusBottomRight = 5;
         series.columns.template.column.cornerRadiusTopRight = 5;
@@ -86,11 +98,11 @@
         series.interpolationEasing = am4core.ease.linear;
 
         var labelBullet = series.bullets.push(new am4charts.LabelBullet());
-        labelBullet.label.horizontalCenter = "right";
-        labelBullet.label.text =
-          "{values.valueX.workingValue.formatNumber('#.')}";
+        labelBullet.label.horizontalCenter = "left";
+        labelBullet.label.text = "{values.valueX.workingValue.}";
         labelBullet.label.textAlign = "end";
-        labelBullet.label.dx = -10;
+        labelBullet.label.dx = 10;
+        labelBullet.label.maskBullets = false;
 
         chart.zoomOutButton.disabled = true;
 

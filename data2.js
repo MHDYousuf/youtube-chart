@@ -9974,7 +9974,7 @@ var allData = {
     },
     {
       network: "Rajasthan",
-      MAU: "1800",
+      MAU: "180",
     },
     {
       network: "Sikkim",
