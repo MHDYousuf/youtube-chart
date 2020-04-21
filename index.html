@@ -10,9 +10,12 @@
     <style>
       #chartdiv {
         width: 100%;
-        height: 101vh;
+        height: 102vh;
       }
       g[role="button"] {
+        display: none;
+      }
+      ::-webkit-scrollbar {
         display: none;
       }
     </style>
@@ -41,7 +44,7 @@
         chart.numberFormatter.numberFormat = "#,###.|#.|.";
 
         var title = chart.titles.create();
-        title.html = "<strong>COVID 19 Active Cases in India</strong>";
+        title.html = "<strong>COVID 19 - Top 10 Active Cases in India</strong>";
         title.fontSize = 25;
         title.marginBottom = 30;
         // var labele = chart.chartContainer.createChild(am4core.Label);
@@ -99,7 +102,7 @@
 
         var labelBullet = series.bullets.push(new am4charts.LabelBullet());
         labelBullet.label.horizontalCenter = "left";
-        labelBullet.label.text = "{values.valueX.workingValue.}";
+        labelBullet.label.text = "{values.valueX.workingValue}";
         labelBullet.label.textAlign = "end";
         labelBullet.label.dx = 10;
         labelBullet.label.maskBullets = false;
@@ -177,9 +180,13 @@
           chart.invalidateRawData();
           label.text = moment(year).format("MMM Do YYYY");
 
+          // categoryAxis.zoom({
+          //   start: 0,
+          //   end: itemsWithNonZero / categoryAxis.dataItems.length,
+          // });
           categoryAxis.zoom({
             start: 0,
-            end: itemsWithNonZero / categoryAxis.dataItems.length,
+            end: 0.27,
           });
         }
 
@@ -187,6 +194,7 @@
 
         chart.data = allData[year];
         console.log(chart.data);
+        // categoryAxis.zoom({ start: 0, end: 1 / chart.data.length });
         categoryAxis.zoom({ start: 0, end: 1 / chart.data.length });
 
         series.events.on("inited", function () {
