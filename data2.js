@@ -9701,7 +9701,7 @@ var allData = {
       MAU: "47",
     },
   ],
-  "2020-04-2T18:30:00.000Z": [
+  "2020-04-02T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
       MAU: "10",
