@@ -9858,31 +9858,31 @@ var allData = {
   "2020-04-03T18:30:00.000Z": [
     {
       network: "Andaman and Nicobar Islands",
-      MAU: "0",
+      MAU: "10",
     },
     {
       network: "Andhra Pradesh",
-      MAU: "1",
+      MAU: "189",
     },
     {
       network: "Arunachal Pradesh",
-      MAU: "0",
+      MAU: "1",
     },
     {
       network: "Assam",
-      MAU: "0",
+      MAU: "26",
     },
     {
       network: "Bihar",
-      MAU: "0",
+      MAU: "28",
     },
     {
       network: "Chandigarh",
-      MAU: "0",
+      MAU: "15",
     },
     {
       network: "Chhattisgarh",
-      MAU: "0",
+      MAU: "7",
     },
     {
       network: "Daman and Diu",
@@ -9890,7 +9890,7 @@ var allData = {
     },
     {
       network: "Delhi",
-      MAU: "0",
+      MAU: "423",
     },
     {
       network: "Dadra and Nagar Haveli",
@@ -9898,39 +9898,39 @@ var allData = {
     },
     {
       network: "Goa",
-      MAU: "0",
+      MAU: "7",
     },
     {
       network: "Gujarat",
-      MAU: "0",
+      MAU: "85",
     },
     {
       network: "Himachal Pradesh",
-      MAU: "0",
+      MAU: "9",
     },
     {
       network: "Hariyana",
-      MAU: "0",
+      MAU: "56",
     },
     {
       network: "Jharkhand",
-      MAU: "0",
+      MAU: "2",
     },
     {
       network: "Jammu and Kashmir",
-      MAU: "0",
+      MAU: "87",
     },
     {
       network: "Karnataka",
-      MAU: "0",
+      MAU: "129",
     },
     {
       network: "Kerala",
-      MAU: "0",
+      MAU: "254",
     },
     {
       network: "Ladakh",
-      MAU: "0",
+      MAU: "11",
     },
     {
       network: "Lakshadweep",
@@ -9938,7 +9938,7 @@ var allData = {
     },
     {
       network: "Maharashtra",
-      MAU: "0",
+      MAU: "551",
     },
     {
       network: "Meghalaya",
@@ -9946,15 +9946,15 @@ var allData = {
     },
     {
       network: "Manipur",
-      MAU: "0",
+      MAU: "2",
     },
     {
       network: "Madhya Pradesh",
-      MAU: "0",
+      MAU: "168",
     },
     {
       network: "Mizoram",
-      MAU: "0",
+      MAU: "1",
     },
     {
       network: "Nagaland",
@@ -9962,19 +9962,19 @@ var allData = {
     },
     {
       network: "Orissa",
-      MAU: "0",
+      MAU: "19",
     },
     {
       network: "Punjab",
-      MAU: "0",
+      MAU: "57",
     },
     {
       network: "Pondicherry",
-      MAU: "0",
+      MAU: "5",
     },
     {
       network: "Rajasthan",
-      MAU: "0",
+      MAU: "1800",
     },
     {
       network: "Sikkim",
@@ -9982,11 +9982,11 @@ var allData = {
     },
     {
       network: "Telangana",
-      MAU: "0",
+      MAU: "228",
     },
     {
       network: "Tamil Nadu",
-      MAU: "0",
+      MAU: "474",
     },
     {
       network: "Tripura",
@@ -9998,15 +9998,15 @@ var allData = {
     // },
     {
       network: "Uttar Pradesh",
-      MAU: "0",
+      MAU: "221",
     },
     {
       network: "Uttarakhand",
-      MAU: "0",
+      MAU: "20",
     },
     {
       network: "West Bengal",
-      MAU: "0",
+      MAU: "47",
     },
   ],
   "2020-04-04T18:30:00.000Z": [
@@ -10028,7 +10028,7 @@ var allData = {
     },
     {
       network: "Bihar",
-      MAU: "0",
+      MAU: "28",
     },
     {
       network: "Chandigarh",
