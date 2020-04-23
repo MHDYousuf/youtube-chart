@@ -5,7 +5,7 @@ var allData = {
       MAU: "0.5",
     },
   ],
-  "1985-02-01T00:00:00.000Z": [
+  "1985-01-02T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -15,21 +15,7 @@ var allData = {
       MAU: "0.7",
     },
   ],
-  "1985-03-01T00:00:00.000Z": [
-    {
-      network: "Manjil Virinja Pookal(1980)",
-      MAU: "0.5",
-    },
-    {
-      network: "Angaadi(1980)",
-      MAU: "0.7",
-    },
-    {
-      network: "Thrishna(1981)",
-      MAU: "0.8",
-    },
-  ],
-  "1985-04-01T00:00:00.000Z": [
+  "1985-01-03T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -42,12 +28,8 @@ var allData = {
       network: "Thrishna(1981)",
       MAU: "0.8",
     },
-    {
-      network: "Padayottam(1982)",
-      MAU: "0.9",
-    },
   ],
-  "1985-05-01T00:00:00.000Z": [
+  "1985-01-04T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -64,12 +46,8 @@ var allData = {
       network: "Padayottam(1982)",
       MAU: "0.9",
     },
-    {
-      network: "Ee Nadu(1982)",
-      MAU: "0.9",
-    },
   ],
-  "1985-06-01T00:00:00.000Z": [
+  "1985-01-05T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -90,12 +68,8 @@ var allData = {
       network: "Ee Nadu(1982)",
       MAU: "0.9",
     },
-    {
-      network: "Aa rathri(1983)",
-      MAU: "1.15",
-    },
   ],
-  "1985-07-01T00:00:00.000Z": [
+  "1985-01-06T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -120,12 +94,8 @@ var allData = {
       network: "Aa rathri(1983)",
       MAU: "1.15",
     },
-    {
-      network: "Ente Maamatti Kuttiyammakku(1983)",
-      MAU: "1.25",
-    },
   ],
-  "1985-08-01T00:00:00.000Z": [
+  "1985-01-07T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -154,12 +124,8 @@ var allData = {
       network: "Ente Maamatti Kuttiyammakku(1983)",
       MAU: "1.25",
     },
-    {
-      network: "My Dear Kuttichathan(1984)",
-      MAU: "1.5",
-    },
   ],
-  "1985-09-01T00:00:00.000Z": [
+  "1985-01-08T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -193,7 +159,7 @@ var allData = {
       MAU: "1.5",
     },
   ],
-  "1985-10-01T00:00:00.000Z": [
+  "1985-01-09T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -226,12 +192,8 @@ var allData = {
       network: "My Dear Kuttichathan(1984)",
       MAU: "1.5",
     },
-    {
-      network: "Nirakkoottu(1985)",
-      MAU: "0.9",
-    },
   ],
-  "1985-11-01T00:00:00.000Z": [
+  "1985-01-10T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -269,7 +231,45 @@ var allData = {
       MAU: "0.9",
     },
   ],
-  "1985-12-01T00:00:00.000Z": [
+  "1985-01-11T00:00:00.000Z": [
+    {
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
+    },
+    {
+      network: "Angaadi(1980)",
+      MAU: "0.7",
+    },
+    {
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+  ],
+  "1985-01-12T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -345,7 +345,7 @@ var allData = {
       MAU: "0.9",
     },
   ],
-  "1986-02-01T00:00:00.000Z": [
+  "1986-01-02T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -383,7 +383,7 @@ var allData = {
       MAU: "0.9",
     },
   ],
-  "1986-03-01T00:00:00.000Z": [
+  "1986-01-03T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -421,7 +421,7 @@ var allData = {
       MAU: "0.9",
     },
   ],
-  "1986-04-01T00:00:00.000Z": [
+  "1986-01-04T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -459,7 +459,7 @@ var allData = {
       MAU: "0.9",
     },
   ],
-  "1986-05-01T00:00:00.000Z": [
+  "1986-01-05T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -497,7 +497,7 @@ var allData = {
       MAU: "0.9",
     },
   ],
-  "1986-06-01T00:00:00.000Z": [
+  "1986-01-06T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -535,49 +535,7 @@ var allData = {
       MAU: "0.9",
     },
   ],
-  "1986-07-01T00:00:00.000Z": [
-    {
-      network: "Manjil Virinja Pookal(1980)",
-      MAU: "0.5",
-    },
-    {
-      network: "Angaadi(1980)",
-      MAU: "0.7",
-    },
-    {
-      network: "Thrishna(1981)",
-      MAU: "0.8",
-    },
-    {
-      network: "Padayottam(1982)",
-      MAU: "0.9",
-    },
-    {
-      network: "Ee Nadu(1982)",
-      MAU: "0.9",
-    },
-    {
-      network: "Aa rathri(1983)",
-      MAU: "1.15",
-    },
-    {
-      network: "Ente Maamatti Kuttiyammakku(1983)",
-      MAU: "1.25",
-    },
-    {
-      network: "My Dear Kuttichathan(1984)",
-      MAU: "1.5",
-    },
-    {
-      network: "Nirakkoottu(1985)",
-      MAU: "0.9",
-    },
-    {
-      network: "Raajavinte Makan(1986)",
-      MAU: "0.85",
-    },
-  ],
-  "1986-08-01T00:00:00.000Z": [
+  "1986-01-07T00:00:00.000Z": [
     {
       network: "Manjil Virinja Pookal(1980)",
       MAU: "0.5",
@@ -619,7 +577,11 @@ var allData = {
       MAU: "0.85",
     },
   ],
-  "1986-09-01T00:00:00.000Z": [
+  "1986-01-08T00:00:00.000Z": [
+    {
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
+    },
     {
       network: "Angaadi(1980)",
       MAU: "0.7",
@@ -656,12 +618,8 @@ var allData = {
       network: "Raajavinte Makan(1986)",
       MAU: "0.85",
     },
-    {
-      network: "Aavanazhi(1986)",
-      MAU: "1.8",
-    },
   ],
-  "1986-10-01T00:00:00.000Z": [
+  "1986-01-09T00:00:00.000Z": [
     {
       network: "Angaadi(1980)",
       MAU: "0.7",
@@ -703,7 +661,7 @@ var allData = {
       MAU: "1.8",
     },
   ],
-  "1986-11-01T00:00:00.000Z": [
+  "1986-01-10T00:00:00.000Z": [
     {
       network: "Angaadi(1980)",
       MAU: "0.7",
@@ -745,7 +703,49 @@ var allData = {
       MAU: "1.8",
     },
   ],
-  "1986-12-01T00:00:00.000Z": [
+  "1986-01-11T00:00:00.000Z": [
+    {
+      network: "Angaadi(1980)",
+      MAU: "0.7",
+    },
+    {
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+  ],
+  "1986-01-12T00:00:00.000Z": [
     {
       network: "Angaadi(1980)",
       MAU: "0.7",
@@ -829,7 +829,7 @@ var allData = {
       MAU: "1.8",
     },
   ],
-  "1987-02-01T00:00:00.000Z": [
+  "1987-01-02T00:00:00.000Z": [
     {
       network: "Thrishna(1981)",
       MAU: "0.8",
@@ -871,7 +871,7 @@ var allData = {
       MAU: "2.5",
     },
   ],
-  "1987-03-01T00:00:00.000Z": [
+  "1987-01-03T00:00:00.000Z": [
     {
       network: "Thrishna(1981)",
       MAU: "0.8",
@@ -913,7 +913,7 @@ var allData = {
       MAU: "2.5",
     },
   ],
-  "1987-04-01T00:00:00.000Z": [
+  "1987-01-04T00:00:00.000Z": [
     {
       network: "Thrishna(1981)",
       MAU: "0.8",
@@ -955,7 +955,7 @@ var allData = {
       MAU: "2.5",
     },
   ],
-  "1987-05-01T00:00:00.000Z": [
+  "1987-01-05T00:00:00.000Z": [
     {
       network: "Thrishna(1981)",
       MAU: "0.8",
@@ -997,7 +997,7 @@ var allData = {
       MAU: "2.5",
     },
   ],
-  "1987-06-01T00:00:00.000Z": [
+  "1987-01-06T00:00:00.000Z": [
     {
       network: "Thrishna(1981)",
       MAU: "0.8",
@@ -1039,7 +1039,7 @@ var allData = {
       MAU: "2.5",
     },
   ],
-  "1987-07-01T00:00:00.000Z": [
+  "1987-01-07T00:00:00.000Z": [
     {
       network: "Thrishna(1981)",
       MAU: "0.8",
@@ -1081,7 +1081,7 @@ var allData = {
       MAU: "2.5",
     },
   ],
-  "1987-08-01T00:00:00.000Z": [
+  "1987-01-08T00:00:00.000Z": [
     {
       network: "Thrishna(1981)",
       MAU: "0.8",
@@ -1123,7 +1123,7 @@ var allData = {
       MAU: "2.5",
     },
   ],
-  "1987-09-01T00:00:00.000Z": [
+  "1987-01-09T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1165,7 +1165,7 @@ var allData = {
       MAU: "2.25",
     },
   ],
-  "1987-10-01T00:00:00.000Z": [
+  "1987-01-10T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1207,7 +1207,7 @@ var allData = {
       MAU: "2.25",
     },
   ],
-  "1987-11-01T00:00:00.000Z": [
+  "1987-01-11T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1249,7 +1249,7 @@ var allData = {
       MAU: "2.25",
     },
   ],
-  "1987-12-01T00:00:00.000Z": [
+  "1987-01-12T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1333,7 +1333,7 @@ var allData = {
       MAU: "2.25",
     },
   ],
-  "1988-02-01T00:00:00.000Z": [
+  "1988-01-02T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1376,7 +1376,7 @@ var allData = {
       MAU: "2.8",
     },
   ],
-  "1988-03-01T00:00:00.000Z": [
+  "1988-01-03T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1419,7 +1419,7 @@ var allData = {
       MAU: "2.8",
     },
   ],
-  "1988-04-01T00:00:00.000Z": [
+  "1988-01-04T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1462,7 +1462,7 @@ var allData = {
       MAU: "2.8",
     },
   ],
-  "1988-05-01T00:00:00.000Z": [
+  "1988-01-05T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1505,7 +1505,7 @@ var allData = {
       MAU: "2.8",
     },
   ],
-  "1988-06-01T00:00:00.000Z": [
+  "1988-01-06T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1548,7 +1548,7 @@ var allData = {
       MAU: "2.8",
     },
   ],
-  "1988-07-01T00:00:00.000Z": [
+  "1988-01-07T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1591,7 +1591,7 @@ var allData = {
       MAU: "2.8",
     },
   ],
-  "1988-08-01T00:00:00.000Z": [
+  "1988-01-08T00:00:00.000Z": [
     {
       network: "Padayottam(1982)",
       MAU: "0.9",
@@ -1634,7 +1634,7 @@ var allData = {
       MAU: "2.8",
     },
   ],
-  "1988-09-01T00:00:00.000Z": [
+  "1988-01-09T00:00:00.000Z": [
     {
       network: "Ee Nadu(1982)",
       MAU: "0.9",
@@ -1677,7 +1677,7 @@ var allData = {
       MAU: "3.1",
     },
   ],
-  "1988-10-01T00:00:00.000Z": [
+  "1988-01-10T00:00:00.000Z": [
     {
       network: "Ee Nadu(1982)",
       MAU: "0.9",
@@ -1720,7 +1720,7 @@ var allData = {
       MAU: "3.1",
     },
   ],
-  "1988-11-01T00:00:00.000Z": [
+  "1988-01-11T00:00:00.000Z": [
     {
       network: "Ee Nadu(1982)",
       MAU: "0.9",
@@ -1763,7 +1763,7 @@ var allData = {
       MAU: "3.1",
     },
   ],
-  "1988-12-01T00:00:00.000Z": [
+  "1988-01-12T00:00:00.000Z": [
     {
       network: "Ee Nadu(1982)",
       MAU: "0.9",
@@ -1849,7 +1849,7 @@ var allData = {
       MAU: "3.1",
     },
   ],
-  "1989-02-01T00:00:00.000Z": [
+  "1989-01-02T00:00:00.000Z": [
     {
       network: "Ee Nadu(1982)",
       MAU: "0.9",
@@ -1892,7 +1892,7 @@ var allData = {
       MAU: "3.6",
     },
   ],
-  "1989-03-01T00:00:00.000Z": [
+  "1989-01-03T00:00:00.000Z": [
     {
       network: "Ee Nadu(1982)",
       MAU: "0.9",
@@ -1935,7 +1935,7 @@ var allData = {
       MAU: "3.7",
     },
   ],
-  "1989-04-01T00:00:00.000Z": [
+  "1989-01-04T00:00:00.000Z": [
     {
       network: "Ee Nadu(1982)",
       MAU: "0.9",
@@ -1978,7 +1978,7 @@ var allData = {
       MAU: "3.9",
     },
   ],
-  "1989-05-01T00:00:00.000Z": [
+  "1989-01-05T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2021,7 +2021,7 @@ var allData = {
       MAU: "1.0",
     },
   ],
-  "1989-06-01T00:00:00.000Z": [
+  "1989-01-06T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2064,7 +2064,7 @@ var allData = {
       MAU: "1.0",
     },
   ],
-  "1989-07-01T00:00:00.000Z": [
+  "1989-01-07T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2107,7 +2107,7 @@ var allData = {
       MAU: "1.0",
     },
   ],
-  "1989-08-01T00:00:00.000Z": [
+  "1989-01-08T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2150,7 +2150,7 @@ var allData = {
       MAU: "1.0",
     },
   ],
-  "1989-09-01T00:00:00.000Z": [
+  "1989-01-09T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2193,7 +2193,7 @@ var allData = {
       MAU: "1.0",
     },
   ],
-  "1989-10-01T00:00:00.000Z": [
+  "1989-01-10T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2236,7 +2236,7 @@ var allData = {
       MAU: "1.0",
     },
   ],
-  "1989-11-01T00:00:00.000Z": [
+  "1989-01-11T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2279,7 +2279,7 @@ var allData = {
       MAU: "1.0",
     },
   ],
-  "1989-12-01T00:00:00.000Z": [
+  "1989-01-12T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2365,7 +2365,7 @@ var allData = {
       MAU: "1.0",
     },
   ],
-  "1990-02-01T00:00:00.000Z": [
+  "1990-01-02T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2408,7 +2408,7 @@ var allData = {
       MAU: "1.0",
     },
   ],
-  "1990-03-01T00:00:00.000Z": [
+  "1990-01-03T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2451,7 +2451,7 @@ var allData = {
       MAU: "1.2",
     },
   ],
-  "1990-04-01T00:00:00.000Z": [
+  "1990-01-04T00:00:00.000Z": [
     {
       network: "Aa rathri(1983)",
       MAU: "1.15",
@@ -2494,7 +2494,7 @@ var allData = {
       MAU: "1.2",
     },
   ],
-  "1990-05-01T00:00:00.000Z": [
+  "1990-01-05T00:00:00.000Z": [
     {
       network: "Ente Maamatti Kuttiyammakku(1983)",
       MAU: "1.25",
@@ -2537,7 +2537,7 @@ var allData = {
       MAU: "2.0",
     },
   ],
-  "1990-06-01T00:00:00.000Z": [
+  "1990-01-06T00:00:00.000Z": [
     {
       network: "Ente Maamatti Kuttiyammakku(1983)",
       MAU: "1.25",
@@ -2580,7 +2580,7 @@ var allData = {
       MAU: "2.0",
     },
   ],
-  "1990-07-01T00:00:00.000Z": [
+  "1990-01-07T00:00:00.000Z": [
     {
       network: "My Dear Kuttichathan(1984)",
       MAU: "1.5",
@@ -2623,7 +2623,7 @@ var allData = {
       MAU: "1.5",
     },
   ],
-  "1990-08-01T00:00:00.000Z": [
+  "1990-01-08T00:00:00.000Z": [
     {
       network: "My Dear Kuttichathan(1984)",
       MAU: "1.5",
@@ -2666,7 +2666,7 @@ var allData = {
       MAU: "1.5",
     },
   ],
-  "1990-09-01T00:00:00.000Z": [
+  "1990-01-09T00:00:00.000Z": [
     {
       network: "My Dear Kuttichathan(1984)",
       MAU: "1.5",
@@ -2709,7 +2709,7 @@ var allData = {
       MAU: "1.5",
     },
   ],
-  "1990-10-01T00:00:00.000Z": [
+  "1990-01-10T00:00:00.000Z": [
     {
       network: "My Dear Kuttichathan(1984)",
       MAU: "1.5",
@@ -2752,7 +2752,7 @@ var allData = {
       MAU: "1.5",
     },
   ],
-  "1990-11-01T00:00:00.000Z": [
+  "1990-01-11T00:00:00.000Z": [
     {
       network: "My Dear Kuttichathan(1984)",
       MAU: "1.5",
@@ -2796,7 +2796,7 @@ var allData = {
       MAU: "1.8",
     },
   ],
-  "1990-12-01T00:00:00.000Z": [
+  "1990-01-12T00:00:00.000Z": [
     {
       network: "My Dear Kuttichathan(1984)",
       MAU: "1.5",
