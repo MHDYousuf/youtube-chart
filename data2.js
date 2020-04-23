@@ -1,2524 +1,4357 @@
 var allData = {
   "1985-01-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
   ],
   "1985-02-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
   ],
   "1985-03-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
   ],
   "1985-04-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
   ],
   "1985-05-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
   ],
   "1985-06-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
   ],
   "1985-07-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
   ],
   "1985-08-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
     },
   ],
   "1985-09-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
     },
   ],
   "1985-10-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
     },
   ],
   "1985-11-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
     },
   ],
   "1985-12-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
     },
   ],
   "1986-01-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
     },
   ],
   "1986-02-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
     },
   ],
   "1986-03-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
     },
   ],
   "1986-04-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
     },
   ],
   "1986-05-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
     },
   ],
   "1986-06-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
     },
   ],
   "1986-07-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
     },
   ],
   "1986-08-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Manjil Virinja Pookal(1980)",
+      MAU: "0.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
+    },
+    {
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
     },
   ],
   "1986-09-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
   ],
   "1986-10-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
   ],
   "1986-11-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
   ],
   "1986-12-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
   ],
   "1987-01-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Angaadi(1980)",
+      MAU: "0.7",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
   ],
   "1987-02-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
   ],
   "1987-03-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
   ],
   "1987-04-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
   ],
   "1987-05-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
   ],
   "1987-06-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
   ],
   "1987-07-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
   ],
   "1987-08-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Thrishna(1981)",
+      MAU: "0.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
+    },
+    {
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
   ],
   "1987-09-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
     },
   ],
   "1987-10-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
     },
   ],
   "1987-11-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
     },
   ],
   "1987-12-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
     },
   ],
   "1988-01-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+    {
+      network: "Raajavinte Makan(1986)",
+      MAU: "0.85",
+    },
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
     },
   ],
   "1988-02-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
     },
   ],
   "1988-03-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
     },
   ],
   "1988-04-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
     },
   ],
   "1988-05-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
     },
   ],
   "1988-06-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
     },
   ],
   "1988-07-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
     },
   ],
   "1988-08-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Padayottam(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
+    },
+    {
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
     },
   ],
   "1988-09-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
     },
   ],
   "1988-10-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
     },
   ],
   "1988-11-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
     },
   ],
   "1988-12-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
     },
   ],
   "1989-01-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+    {
+      network: "Nirakkoottu(1985)",
+      MAU: "0.9",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
     },
   ],
   "1989-02-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "3.6",
     },
   ],
   "1989-03-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "3.7",
     },
   ],
   "1989-04-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Ee Nadu(1982)",
+      MAU: "0.9",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
+    },
+    {
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "3.9",
     },
   ],
   "1989-05-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+    {
+      network: "Ramji Rao Speaking(1989)",
+      MAU: "1.0",
     },
   ],
   "1989-06-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.3",
+    },
+    {
+      network: "Ramji Rao Speaking(1989)",
+      MAU: "1.0",
     },
   ],
   "1989-07-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.7",
+    },
+    {
+      network: "Ramji Rao Speaking(1989)",
+      MAU: "1.0",
     },
   ],
   "1989-08-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.7",
+    },
+    {
+      network: "Ramji Rao Speaking(1989)",
+      MAU: "1.0",
     },
   ],
   "1989-09-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "5.0",
+    },
+    {
+      network: "Ramji Rao Speaking(1989)",
+      MAU: "1.0",
     },
   ],
   "1989-10-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "5.2",
+    },
+    {
+      network: "Ramji Rao Speaking(1989)",
+      MAU: "1.0",
     },
   ],
   "1989-11-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "5.4",
+    },
+    {
+      network: "Ramji Rao Speaking(1989)",
+      MAU: "1.0",
     },
   ],
   "1989-12-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "5.7",
+    },
+    {
+      network: "Ramji Rao Speaking(1989)",
+      MAU: "1.0",
     },
   ],
   "1990-01-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "6.0",
+    },
+    {
+      network: "Ramji Rao Speaking(1989)",
+      MAU: "1.0",
     },
   ],
   "1990-02-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+    {
+      network: "Ramji Rao Speaking(1989)",
+      MAU: "1.0",
     },
   ],
   "1990-03-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+    {
+      network: "No.20 Madras Mail(1990)",
+      MAU: "1.2",
     },
   ],
   "1990-04-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Aa rathri(1983)",
+      MAU: "1.15",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+    {
+      network: "No.20 Madras Mail(1990)",
+      MAU: "1.2",
     },
   ],
   "1990-05-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+    {
+      network: "No.20 Madras Mail(1990)",
+      MAU: "1.2",
+    },
+    {
+      network: "His Highness Abdullah(1990)",
+      MAU: "2.0",
     },
   ],
   "1990-06-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "Ente Maamatti Kuttiyammakku(1983)",
+      MAU: "1.25",
     },
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+    {
+      network: "No.20 Madras Mail(1990)",
+      MAU: "1.2",
+    },
+    {
+      network: "His Highness Abdullah(1990)",
+      MAU: "2.0",
     },
   ],
   "1990-07-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+    {
+      network: "No.20 Madras Mail(1990)",
+      MAU: "1.2",
+    },
+    {
+      network: "His Highness Abdullah(1990)",
+      MAU: "2.0",
+    },
+    {
+      network: "In Harihar Nagar(1990)",
+      MAU: "1.5",
     },
   ],
   "1990-08-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+    {
+      network: "No.20 Madras Mail(1990)",
+      MAU: "1.2",
+    },
+    {
+      network: "His Highness Abdullah(1990)",
+      MAU: "2.0",
+    },
+    {
+      network: "In Harihar Nagar(1990)",
+      MAU: "1.5",
     },
   ],
   "1990-09-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+    {
+      network: "No.20 Madras Mail(1990)",
+      MAU: "1.2",
+    },
+    {
+      network: "His Highness Abdullah(1990)",
+      MAU: "2.0",
+    },
+    {
+      network: "In Harihar Nagar(1990)",
+      MAU: "1.5",
     },
   ],
   "1990-10-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+    {
+      network: "No.20 Madras Mail(1990)",
+      MAU: "1.2",
+    },
+    {
+      network: "His Highness Abdullah(1990)",
+      MAU: "2.0",
+    },
+    {
+      network: "In Harihar Nagar(1990)",
+      MAU: "1.5",
     },
   ],
   "1990-11-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
     },
     {
-      network: "",
-      MAU: "",
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
     },
     {
-      network: "",
-      MAU: "",
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+
+    {
+      network: "His Highness Abdullah(1990)",
+      MAU: "2.0",
+    },
+    {
+      network: "In Harihar Nagar(1990)",
+      MAU: "1.5",
+    },
+    {
+      network: "Aye Auto(1990)",
+      MAU: "1.8",
     },
   ],
   "1990-12-01T00:00:00.000Z": [
     {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-01-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-02-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-03-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-04-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-05-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-06-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-07-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-08-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-09-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-10-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-11-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1991-12-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-01-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-02-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-03-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-04-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-05-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-06-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-07-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-08-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-09-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-10-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-11-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1992-12-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-01-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-02-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-03-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-04-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-05-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-06-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-07-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-08-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-09-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-10-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-11-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1993-12-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-01-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-02-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-03-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-04-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-05-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-06-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-07-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-08-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-09-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-10-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-11-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1994-12-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-01-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-02-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-03-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-04-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-05-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-06-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-07-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-08-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-09-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-10-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-11-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1995-12-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-01-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-02-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-03-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-04-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-05-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-06-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-07-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-08-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-09-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-10-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-11-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1996-12-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-01-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-02-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-03-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-04-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-05-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-06-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-07-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-08-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-09-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-10-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-11-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1997-12-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-01-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-02-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-03-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-04-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-05-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-06-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-07-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-08-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-09-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-10-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-11-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1998-12-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-01-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-02-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-03-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-04-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-05-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-06-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-07-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-08-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-09-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-10-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-11-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
-  "1999-12-01T00:00:00.000Z": [
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-    {
-      network: "",
-      MAU: "",
-    },
-  ],
+      network: "My Dear Kuttichathan(1984)",
+      MAU: "1.5",
+    },
+
+    {
+      network: "Aavanazhi(1986)",
+      MAU: "1.8",
+    },
+    {
+      network: "Irupatham Noottandu(1987)",
+      MAU: "2.5",
+    },
+    {
+      network: "New Delhi(1987)",
+      MAU: "2.25",
+    },
+    {
+      network: "Oru CBI Diary Kuripp(1988)",
+      MAU: "2.8",
+    },
+    {
+      network: "Chithram(1988)",
+      MAU: "3.1",
+    },
+    {
+      network: "Oru Vadakkan Veeragadtha(1989)",
+      MAU: "4.0",
+    },
+
+    {
+      network: "His Highness Abdullah(1990)",
+      MAU: "2.0",
+    },
+    {
+      network: "In Harihar Nagar(1990)",
+      MAU: "1.5",
+    },
+    {
+      network: "Aye Auto(1990)",
+      MAU: "1.8",
+    },
+  ],
+  //   "1991-01-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-02-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-03-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-04-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-05-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-06-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-07-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-08-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-09-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-10-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-11-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1991-12-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-01-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-02-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-03-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-04-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-05-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-06-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-07-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-08-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-09-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-10-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-11-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1992-12-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-01-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-02-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-03-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-04-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-05-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-06-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-07-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-08-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-09-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-10-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-11-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1993-12-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-01-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-02-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-03-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-04-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-05-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-06-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-07-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-08-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-09-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-10-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-11-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1994-12-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-01-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-02-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-03-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-04-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-05-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-06-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-07-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-08-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-09-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-10-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-11-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1995-12-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-01-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-02-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-03-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-04-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-05-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-06-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-07-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-08-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-09-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-10-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-11-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1996-12-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-01-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-02-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-03-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-04-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-05-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-06-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-07-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-08-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-09-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-10-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-11-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1997-12-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-01-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-02-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-03-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-04-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-05-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-06-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-07-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-08-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-09-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-10-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-11-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1998-12-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-01-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-02-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-03-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-04-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-05-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-06-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-07-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-08-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-09-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-10-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-11-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
+  //   "1999-12-01T00:00:00.000Z": [
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //     {
+  //       network: "",
+  //       MAU: "",
+  //     },
+  //   ],
   //   "2000-01-01T00:00:00.000Z": [
   //     {
   //       network: "",
