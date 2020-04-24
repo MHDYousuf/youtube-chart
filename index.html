@@ -41,10 +41,10 @@
         //   { number: 1e6, suffix: "M" },
         //   { number: 1e9, suffix: "B" },
         // ];
-        chart.numberFormatter.numberFormat = "#,###.|#.|.";
+        chart.numberFormatter.numberFormat = "##,###,###.";
 
         var title = chart.titles.create();
-        title.html = "<strong>COVID 19 - Top 10 Active Cases in India</strong>";
+        title.html = "<strong>Top 10 Biggest Hits in Malayalam Movies</strong>";
         title.fontSize = 25;
         title.marginBottom = 30;
         // var labele = chart.chartContainer.createChild(am4core.Label);
@@ -73,7 +73,11 @@
           }
         });
 
+<<<<<<< HEAD
         var stepDuration = 2000;
+=======
+        var stepDuration = 1000;
+>>>>>>> 55e09dfdd4f97a24ded4c7fdbe15f91701dfd6de
 
         var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis());
         categoryAxis.renderer.grid.template.location = 0;
@@ -118,8 +122,8 @@
         // var year = JSON.parse(Dubyear);
 
         // var year = new Date(2020, 02, 13, 24, 0, 00).toJSON();
-        var initialYear = moment("20200314").toJSON();
-        var year = moment("20200314").toJSON();
+        var initialYear = moment("19850102").toJSON();
+        var year = moment("19850102").toJSON();
 
         console.log(year);
         // console.log(year.toJSON());
@@ -151,11 +155,11 @@
         }
         // console.log(moment(year).add(1, "days").toJSON());
         function nextYear() {
-          var newday = moment(year).add(1, "days").toJSON();
+          var newday = moment(year).add(1, "M").toJSON();
           year = newday;
-          console.log(moment(year).add(1, "days").toJSON());
+          console.log(moment(year).add(1, "M").toJSON());
           //   moment(day).add(1, "days");
-          if (year > "2020-04-17T18:30:00.000Z") {
+          if (year > "1985-12-01T18:30:00.000Z") {
             year = initialYear;
           }
 
@@ -163,7 +167,7 @@
           console.log(newData);
           var itemsWithNonZero = 0;
           for (var i = 0; i < chart.data.length; i++) {
-            chart.data[i].MAU = newData[i].MAU;
+            chart.data[i].MAU = newData[i].MAU * 10000000;
             if (chart.data[i].MAU > 0) {
               itemsWithNonZero++;
             }
@@ -178,16 +182,17 @@
           }
 
           chart.invalidateRawData();
-          label.text = moment(year).format("MMM Do YYYY");
-
-          // categoryAxis.zoom({
-          //   start: 0,
-          //   end: itemsWithNonZero / categoryAxis.dataItems.length,
-          // });
+          label.text = moment(year).format("YYYY");
+          label.fontSize = 50;
           categoryAxis.zoom({
             start: 0,
-            end: 0.27,
+            end: itemsWithNonZero / categoryAxis.dataItems.length,
           });
+          // categoryAxis.zoom({
+          //   start: 0,
+          //   // end: 0.27,
+          //   end: 0.27,
+          // });
         }
 
         categoryAxis.sortBySeries = series;
